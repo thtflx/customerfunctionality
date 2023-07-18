@@ -7,6 +7,11 @@
     --text-color: #000;
 }
 
+.bb {
+    border-bottom: 2px solid black;
+}
+
+
 /* GENERAL */
 html {
 height: 100%;
