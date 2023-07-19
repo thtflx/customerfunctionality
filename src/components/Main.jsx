@@ -17,7 +17,7 @@ const Main = () => {
 
     const handleDelete = (id) => {
         setDataArray((prevDataArray) => prevDataArray.filter((data) => data.id !== id));
-    };
+    }; 
 
     return (
         <div className="p-4 flex my-10 mx-10">
