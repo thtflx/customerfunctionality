@@ -59,7 +59,7 @@ const InputForm = ({ onSave }) => {
     return emailRegex.test(email);
   };
 
-  return (
+  return ( 
     <div className="mr-5">
       <h1 className='text-3xl font-bold mb-5'>Add customers</h1>
 
